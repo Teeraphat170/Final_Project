@@ -1,0 +1,5 @@
+,Time,name,Result,Probability(OK),Probability(NG)
+0,2022-08-25 20:19:50,sliding_window_1,OK,0.94,0.06
+0,2022-08-25 20:19:59,sliding_window_2,OK,0.344,0.656
+0,2022-08-25 20:20:10,sliding_window_3,OK,0.344,0.656
+0,2022-08-25 20:20:19,sliding_window_4,OK,0.344,0.656
